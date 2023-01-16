@@ -1,2 +1,2 @@
 hotfix
-git merge hotfix
+git merge solve conflit
